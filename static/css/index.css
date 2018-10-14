@@ -1,0 +1,35 @@
+.left-nav{
+    width: 20%;
+    display: inline-block;
+    height: 100%;
+    position: absolute;
+    vertical-align: sub;
+}
+ul{
+    list-style: none;
+}
+.card img{
+    height: 15rem;
+
+}
+.bigbox{
+    vertical-align:super;
+}
+.right-artical{
+    margin-left: 20%;
+    padding: 0 3rem;
+    width: 79%;
+    display: inline-block;
+    height: 100%;
+    word-wrap: break-word;
+    word-break: normal;
+}
+.container{
+    width: 100%;
+}
+.text-center{
+    border: 1px solid #ddd;
+}
+.title{
+    margin-bottom: 20px;
+}
